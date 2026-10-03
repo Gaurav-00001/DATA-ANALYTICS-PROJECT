@@ -1,5 +1,5 @@
 1) Vrinda Sales Report:-
-   <img width="1900" height="677" alt="Screenshot 2026-10-03 235831" src="https://github.com/user-attachments/assets/c217ea98-8f76-49b7-819c-7b391b05b2b5" />
+<img width="1900" height="677" alt="Screenshot 2026-10-03 235831" src="https://github.com/user-attachments/assets/c217ea98-8f76-49b7-819c-7b391b05b2b5" />
 <img width="1865" height="675" alt="Screenshot 2026-10-03 235822" src="https://github.com/user-attachments/assets/62908f24-50ff-4f8d-bd2d-6f788128b1a0" />
 <img width="1863" height="672" alt="Screenshot 2026-10-03 235812" src="https://github.com/user-attachments/assets/396e7b93-559c-45cb-86a8-2db6c8baf80b" />
 <img width="1847" height="683" alt="Screenshot 2026-10-03 235759" src="https://github.com/user-attachments/assets/1a77eaaf-232f-4895-a7ee-d91c00c9039f" />
