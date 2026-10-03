@@ -14,6 +14,7 @@
 
 
 2)Project management Report:-
+
 <img width="1858" height="671" alt="Screenshot 2026-10-03 235420" src="https://github.com/user-attachments/assets/bd70f4d0-c551-4cbf-827e-a534387dc6de" />
 <img width="1885" height="712" alt="Screenshot 2026-10-03 235409" src="https://github.com/user-attachments/assets/3c10a055-b858-4fa6-8ab1-69afeb9a25c1" />
 <img width="1863" height="667" alt="Screenshot 2026-10-03 235358" src="https://github.com/user-attachments/assets/c40c20f6-5dc5-4800-8274-d860e8abd28e" />
